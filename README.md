@@ -1,10 +1,10 @@
+![EasyCut 首页宣传横幅](assets/easycut-home-banner.jpg)
+
 # EasyCut
 
 录屏做完了，却还要手动找画面、对字幕、剪口误、配人声，最后导出时又发现音画不同步？
 
 EasyCut 只需要一句话：它会把原始录屏、字幕和声音整理成一条可以直接发布的视频，自动处理字幕时序、配音同步、段首噪音、语速差异和导出检查。
-
-![EasyCut 首页宣传横幅](assets/easycut-home-banner.jpg)
 
 ## 一分钟开始
 
