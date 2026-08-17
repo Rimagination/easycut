@@ -1,0 +1,4 @@
+interface:
+  display_name: "EasyCut"
+  short_description: "Polish screen recordings with captions and voiceover"
+  default_prompt: "Use $easycut to turn my raw screen recording and voice material into a polished synchronized video."
