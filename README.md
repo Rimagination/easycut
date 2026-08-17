@@ -12,8 +12,10 @@ EasyCut 只需要一句话：它会把原始录屏、字幕和声音整理成一
 
 把这段话发给 Codex 等 AI Agent：
 
+```text
 帮我安装这个 skill：
 https://github.com/Rimagination/easycut
+```
 
 基础流程需要 Python 和 ffmpeg；录音对齐需要 Whisper；声音克隆可以接入本地 Qwen3-TTS。没有本地 TTS 模型时，也可以先做字幕、剪辑和真人录音对齐。
 
